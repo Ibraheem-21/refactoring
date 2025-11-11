@@ -1,4 +1,5 @@
-7d55282 (HEAD -> main, origin/main, origin/HEAD) Task 2.1
+dafc9da (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+7d55282 Task 2.1
 c3495e3 Task 1.2
 46c532d Task 1.1
 b545fe2 clarifying extracted method names in README.md
